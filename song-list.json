@@ -1,0 +1,4916 @@
+[{
+    "id": 561,
+    "artist": "Selena Gomez",
+    "title": "Look At Her Now",
+    "level": 0,
+    "created_at": {
+        "date": "2019-12-06 14:53:54.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2020-01-13 12:56:51.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 561,
+    "name": "Look At Her Now",
+    "chordsList": ["Am", "G", "Em", "F"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 561,
+            "label_id": 9
+        }
+    }, {
+        "name": "Dance",
+        "pivot": {
+            "song_id": 561,
+            "label_id": 21
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 561,
+            "label_id": 90
+        }
+    }],
+    "labelList": [38, 33, 9, 21, 90, 185],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/lahn-03.152304386.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": true,
+    "variation_title": null
+}, {
+    "id": 562,
+    "artist": "WALK THE MOON",
+    "title": "Timebomb",
+    "level": 0,
+    "created_at": {
+        "date": "2019-12-10 08:23:22.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2020-01-13 12:56:16.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 562,
+    "name": "Timebomb",
+    "chordsList": ["G", "Em", "D", "C", "Am"],
+    "genreList": [{
+        "name": "Indie",
+        "pivot": {
+            "song_id": 562,
+            "label_id": 10
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 562,
+            "label_id": 9
+        }
+    }],
+    "labelList": [37, 29, 10, 9, 186],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/timebomb-03.152934269.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 560,
+    "artist": "Galantis",
+    "title": "No Money",
+    "level": 0,
+    "created_at": {
+        "date": "2019-12-02 16:40:04.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2020-01-13 12:56:07.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 560,
+    "name": "No Money",
+    "chordsList": ["C", "Em", "G", "D", "Am"],
+    "genreList": [{
+        "name": "Dance",
+        "pivot": {
+            "song_id": 560,
+            "label_id": 21
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 560,
+            "label_id": 90
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 560,
+            "label_id": 9
+        }
+    }],
+    "labelList": [29, 21, 90, 9, 182, 189],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/nomoneyyy-05.153954426.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 558,
+    "artist": "Jess Glynne",
+    "title": "One Touch",
+    "level": 0,
+    "created_at": {
+        "date": "2019-11-27 15:01:23.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2020-01-13 12:55:26.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 558,
+    "name": "One Touch",
+    "chordsList": ["Em", "D", "G", "Bm", "A", "F#m"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 558,
+            "label_id": 9
+        }
+    }, {
+        "name": "Dance",
+        "pivot": {
+            "song_id": 558,
+            "label_id": 21
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 558,
+            "label_id": 90
+        }
+    }],
+    "labelList": [52, 9, 21, 90, 178, 184],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/one-touch-01-01.151273969.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 556,
+    "artist": "Normani",
+    "title": "Motivation",
+    "level": 0,
+    "created_at": {
+        "date": "2019-11-14 08:00:06.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2020-01-13 12:55:07.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 556,
+    "name": "Motivation",
+    "chordsList": ["A", "E"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 556,
+            "label_id": 9
+        }
+    }, {
+        "name": "RnB",
+        "pivot": {
+            "song_id": 556,
+            "label_id": 15
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 556,
+            "label_id": 90
+        }
+    }],
+    "labelList": [94, 173, 9, 15, 90, 181],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/untitled-1-01.150501840.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 554,
+    "artist": "Katy Perry",
+    "title": "Roar",
+    "level": 0,
+    "created_at": {
+        "date": "2019-11-11 12:24:02.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2020-01-13 12:54:56.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 554,
+    "name": "Roar",
+    "chordsList": ["G", "Am", "Em", "C", "D"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 554,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 554,
+            "label_id": 90
+        }
+    }],
+    "labelList": [29, 9, 90, 36, 180],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/roar-katy-perry.149896303.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 553,
+    "artist": "Martin Garrix & Troye Sivan",
+    "title": "There For You",
+    "level": 0,
+    "created_at": {
+        "date": "2019-11-08 06:46:50.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2020-01-13 12:54:45.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 553,
+    "name": "There For You",
+    "chordsList": ["D", "Bm", "F#m", "E"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 553,
+            "label_id": 9
+        }
+    }, {
+        "name": "Dance",
+        "pivot": {
+            "song_id": 553,
+            "label_id": 21
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 553,
+            "label_id": 90
+        }
+    }],
+    "labelList": [171, 9, 21, 90, 172, 174],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/mm-18.11..149024479.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 552,
+    "artist": "Ellie Goulding",
+    "title": "On My Mind",
+    "level": 0,
+    "created_at": {
+        "date": "2019-10-21 11:38:46.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2020-01-13 12:54:19.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 552,
+    "name": "On My Mind",
+    "chordsList": ["Bb", "C", "Dm", "Gm"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 552,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 552,
+            "label_id": 90
+        }
+    }, {
+        "name": "Dance",
+        "pivot": {
+            "song_id": 552,
+            "label_id": 21
+        }
+    }],
+    "labelList": [57, 9, 90, 21, 129, 175],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/mm11.11.148697463.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 548,
+    "artist": "DNCE",
+    "title": "Cake By The Ocean",
+    "level": 0,
+    "created_at": {
+        "date": "2019-10-13 09:49:08.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2020-01-13 12:54:08.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 548,
+    "name": "Cake By The Ocean",
+    "chordsList": ["Em", "Bm", "Am", "C"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 548,
+            "label_id": 9
+        }
+    }, {
+        "name": "Dance",
+        "pivot": {
+            "song_id": 548,
+            "label_id": 21
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 548,
+            "label_id": 90
+        }
+    }],
+    "labelList": [35, 9, 21, 90, 149, 170],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/offer-epasti.148081383.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 551,
+    "artist": "Ariana Grande",
+    "title": "No Tears Left To Cry",
+    "level": 0,
+    "created_at": {
+        "date": "2019-10-15 08:43:56.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2020-01-13 12:53:51.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 551,
+    "name": "No Tears Left To Cry",
+    "chordsList": ["Am", "G", "F", "C", "Dm", "A"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 551,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 551,
+            "label_id": 90
+        }
+    }],
+    "labelList": [23, 9, 90, 66, 169],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/mm9.147479824.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 566,
+    "artist": "Elvis Presley",
+    "title": "Can't Help Falling In Love",
+    "level": 0,
+    "created_at": {
+        "date": "2019-12-27 08:05:02.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2020-01-13 12:53:31.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 566,
+    "name": "Can't Help Falling In Love",
+    "chordsList": ["C", "G", "Em", "Am", "F", "B", "A", "Dm"],
+    "genreList": [{
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 566,
+            "label_id": 89
+        }
+    }],
+    "labelList": [23, 36, 89],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/adult-blur-bouquet-236287.142786134.152633902.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 415,
+    "artist": "Billie Eilish",
+    "title": "Bellyache",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-04 11:47:30.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-12-13 16:47:53.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 0,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 415,
+    "name": "Bellyache",
+    "chordsList": ["C", "Am", "Em"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 415,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 415,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 35, 71, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-386025.126908951.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/play\/song\/415",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 452,
+    "artist": "Echosmith",
+    "title": "Cool Kids",
+    "level": 0,
+    "created_at": {
+        "date": "2019-04-09 15:07:27.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-12-13 16:47:38.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 0,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 452,
+    "name": "Cool Kids",
+    "chordsList": ["Em", "C", "G", "D"],
+    "genreList": [{
+        "name": "Indie",
+        "pivot": {
+            "song_id": 452,
+            "label_id": 10
+        }
+    }, {
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 452,
+            "label_id": 11
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 452,
+            "label_id": 90
+        }
+    }],
+    "labelList": [10, 35, 36, 11, 90, 118, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1679618.127529171.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/play\/song\/452",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 475,
+    "artist": "Imagine Dragons",
+    "title": "Radioactive",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-05 21:22:01.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-12-13 16:47:19.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 0,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 475,
+    "name": "Radioactive",
+    "chordsList": ["Am", "C", "G", "D"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 475,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 475,
+            "label_id": 90
+        }
+    }, {
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 475,
+            "label_id": 11
+        }
+    }, {
+        "name": "Rock",
+        "pivot": {
+            "song_id": 475,
+            "label_id": 187
+        }
+    }],
+    "labelList": [9, 33, 50, 90, 11, 155, 187],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/close-up-man-mask-46796.132544712.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/play\/song\/475",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 463,
+    "artist": "Lukas Graham",
+    "title": "7 years",
+    "level": 0,
+    "created_at": {
+        "date": "2019-07-28 09:41:18.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-12-13 16:47:08.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 0,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 463,
+    "name": "7 years",
+    "chordsList": ["G", "Bb", "Eb", "F", "Gm", "D"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 463,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 463,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-277477.83860483.130091179.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/play\/song\/463",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 440,
+    "artist": "Vance Joy",
+    "title": "Riptide",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-01 12:50:38.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-12-13 16:46:56.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 0,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 440,
+    "name": "Riptide",
+    "chordsList": ["Am", "G", "C", "F"],
+    "genreList": [{
+        "name": "Indie",
+        "pivot": {
+            "song_id": 440,
+            "label_id": 10
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 440,
+            "label_id": 90
+        }
+    }],
+    "labelList": [10, 33, 38, 90, 119, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-346709.125172732.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/play\/song\/440",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 528,
+    "artist": "Lauma Kazaka",
+    "title": "Air\u0113",
+    "level": 0,
+    "created_at": {
+        "date": "2019-09-04 10:22:50.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-12-13 16:46:29.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 0,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 528,
+    "name": "Air\u0113",
+    "chordsList": ["Am", "C", "F"],
+    "genreList": [{
+        "name": "Indie",
+        "pivot": {
+            "song_id": 528,
+            "label_id": 10
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 528,
+            "label_id": 9
+        }
+    }, {
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 528,
+            "label_id": 11
+        }
+    }, {
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 528,
+            "label_id": 16
+        }
+    }],
+    "labelList": [33, 10, 42, 9, 11, 126, 16],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/art-blue-boat-194094.142792570.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/play\/song\/528",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 520,
+    "artist": "Lauma Balode & J\u0101nis Kronis",
+    "title": "T\u0113tis Politi\u0137is",
+    "level": 0,
+    "created_at": {
+        "date": "2019-08-31 10:09:44.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-12-13 16:46:14.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 0,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 520,
+    "name": "T\u0113tis Politi\u0137is",
+    "chordsList": ["F", "Dm", "C", "Bb", "Eb", "Am", "Gm"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 520,
+            "label_id": 9
+        }
+    }, {
+        "name": "Children's",
+        "pivot": {
+            "song_id": 520,
+            "label_id": 14
+        }
+    }, {
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 520,
+            "label_id": 16
+        }
+    }],
+    "labelList": [55, 9, 14, 127, 16],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/avatar.142446184.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/play\/song\/520",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 503,
+    "artist": "Au\u013ci un Tautumeitas",
+    "title": "Dzied' papriek\u0161u, br\u0101\u013ca m\u0101sa",
+    "level": 0,
+    "created_at": {
+        "date": "2019-08-01 05:46:57.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-12-13 16:45:59.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 0,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 503,
+    "name": "Dzied' papriek\u0161u, br\u0101\u013ca m\u0101sa",
+    "chordsList": ["Em", "C", "G", "Am"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 503,
+            "label_id": 16
+        }
+    }],
+    "labelList": [107, 16],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/bright-dawn-daylight-302804.139791654.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/play\/song\/503",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 455,
+    "artist": "Leaves & Blooms",
+    "title": "Stay",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-26 14:03:23.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-12-13 16:45:40.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 0,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 455,
+    "name": "Stay",
+    "chordsList": ["F", "Dm", "Am", "G"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 455,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 455,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 33, 41, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/beach-dawn-dusk-274053.128801134.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/play\/song\/455",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 439,
+    "artist": "Shawn Mendes",
+    "title": "Stitches",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-19 12:22:13.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-12-12 14:21:49.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 439,
+    "name": "Stitches",
+    "chordsList": ["Am", "G", "C", "F"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 439,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 439,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 23, 38, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/stitches-08.151360509.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 501,
+    "artist": "Twenty One Pilots",
+    "title": "House Of Gold",
+    "level": 0,
+    "created_at": {
+        "date": "2019-07-31 16:12:37.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-12-11 13:54:48.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 501,
+    "name": "House Of Gold",
+    "chordsList": ["C", "F", "Am", "G", "A", "Dm", "Bbm"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 501,
+            "label_id": 9
+        }
+    }, {
+        "name": "Indie",
+        "pivot": {
+            "song_id": 501,
+            "label_id": 10
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 501,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 10, 90, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-346726.79294359.139788783.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 543,
+    "artist": "Sia",
+    "title": "Santa's Coming For Us",
+    "level": 0,
+    "created_at": {
+        "date": "2019-10-04 14:49:01.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-11-07 07:23:01.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 543,
+    "name": "Santa's Coming For Us",
+    "chordsList": ["Dm", "G", "C", "Am", "D"],
+    "genreList": [{
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 543,
+            "label_id": 90
+        }
+    }, {
+        "name": "Winter",
+        "pivot": {
+            "song_id": 543,
+            "label_id": 188
+        }
+    }],
+    "labelList": [23, 37, 90, 27, 157, 188],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/celebration-christmas-christmas-decoration-41963.145400541.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 547,
+    "artist": "Gene Autry",
+    "title": "Rudolph the Red-Nosed Reindeer",
+    "level": 0,
+    "created_at": {
+        "date": "2019-10-08 06:28:45.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-11-07 07:22:41.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 547,
+    "name": "Rudolph the Red-Nosed Reindeer",
+    "chordsList": ["G", "Am", "Bm", "Em", "E", "A", "D", "C"],
+    "genreList": [{
+        "name": "Children's",
+        "pivot": {
+            "song_id": 547,
+            "label_id": 14
+        }
+    }, {
+        "name": "Winter",
+        "pivot": {
+            "song_id": 547,
+            "label_id": 188
+        }
+    }],
+    "labelList": [14, 43, 29, 165, 155, 188],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/christmas-close-up-doll-1591237.145900600.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 545,
+    "artist": "Ruta Kanteruka",
+    "title": "Gingerbread Man",
+    "level": 0,
+    "created_at": {
+        "date": "2019-10-08 06:01:46.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-11-07 07:22:23.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 545,
+    "name": "Gingerbread Man",
+    "chordsList": ["G", "C", "Dm", "F"],
+    "genreList": [{
+        "name": "Children's",
+        "pivot": {
+            "song_id": 545,
+            "label_id": 14
+        }
+    }, {
+        "name": "Winter",
+        "pivot": {
+            "song_id": 545,
+            "label_id": 188
+        }
+    }],
+    "labelList": [23, 43, 14, 166, 164, 188],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/christmas-coffee-cookie-1824760.145714506.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 540,
+    "artist": "Michael Bubl\u00e9",
+    "title": "Let It Snow",
+    "level": 0,
+    "created_at": {
+        "date": "2019-10-01 05:22:36.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-11-07 07:22:05.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 540,
+    "name": "Let It Snow",
+    "chordsList": ["C", "G", "Dm", "Em", "Am", "A", "Bm", "D", "E"],
+    "genreList": [{
+        "name": "Winter",
+        "pivot": {
+            "song_id": 540,
+            "label_id": 188
+        }
+    }],
+    "labelList": [23, 36, 167, 157, 188],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/architecture-asphalt-blur-730256.145107356.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 536,
+    "artist": "Raxtu Raxti",
+    "title": "M\u0113nesti\u0146is nakti brauca",
+    "level": 0,
+    "created_at": {
+        "date": "2019-09-17 11:28:19.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-11-05 13:15:04.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 536,
+    "name": "M\u0113nesti\u0146is nakti brauca",
+    "chordsList": ["G", "D", "Am", "C"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 536,
+            "label_id": 16
+        }
+    }],
+    "labelList": [29, 16, 139, 140],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/astronomy-clouds-hands-447329.143919699.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 539,
+    "artist": "Blanco Brown",
+    "title": "The Git Up",
+    "level": 0,
+    "created_at": {
+        "date": "2019-09-21 09:19:16.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-10-29 15:20:13.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 539,
+    "name": "The Git Up",
+    "chordsList": ["E", "A"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 539,
+            "label_id": 9
+        }
+    }, {
+        "name": "Dance",
+        "pivot": {
+            "song_id": 539,
+            "label_id": 21
+        }
+    }, {
+        "name": "Folk\/Country",
+        "pivot": {
+            "song_id": 539,
+            "label_id": 12
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 539,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 21, 94, 141, 143, 12, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/mikhail-rakityanskiy-z6mfjavin4i-unsplash.144460217.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 507,
+    "artist": "Marshmello feat. Bastille",
+    "title": "Happier",
+    "level": 0,
+    "created_at": {
+        "date": "2019-08-26 19:45:53.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-10-22 12:47:05.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 507,
+    "name": "Happier",
+    "chordsList": ["Dm", "C", "F", "Bb"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 507,
+            "label_id": 9
+        }
+    }, {
+        "name": "Dance",
+        "pivot": {
+            "song_id": 507,
+            "label_id": 21
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 507,
+            "label_id": 90
+        }
+    }],
+    "labelList": [157, 9, 21, 90, 168, 57, 176],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/adventure-architecture-bay-196667.142048753.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 550,
+    "artist": "Lukas Graham",
+    "title": "Love Someone",
+    "level": 0,
+    "created_at": {
+        "date": "2019-10-13 10:34:29.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-10-21 16:25:01.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 550,
+    "name": "Love Someone",
+    "chordsList": ["C", "Em", "Am", "F", "G", "Dm"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 550,
+            "label_id": 9
+        }
+    }, {
+        "name": "Indie",
+        "pivot": {
+            "song_id": 550,
+            "label_id": 10
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 550,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 10, 90, 23, 56, 160, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pinpng.146875101.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 542,
+    "artist": "OneRepublic",
+    "title": "Rescue Me",
+    "level": 0,
+    "created_at": {
+        "date": "2019-10-02 08:20:38.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-10-14 16:23:10.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 542,
+    "name": "Rescue Me",
+    "chordsList": ["Bm", "A", "D", "G"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 542,
+            "label_id": 9
+        }
+    }, {
+        "name": "Dance",
+        "pivot": {
+            "song_id": 542,
+            "label_id": 21
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 542,
+            "label_id": 90
+        }
+    }],
+    "labelList": [75, 9, 21, 90, 150, 159, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/rescue-me.146269443.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 537,
+    "artist": "Alec Benjamin",
+    "title": "Let me down slowly",
+    "level": 0,
+    "created_at": {
+        "date": "2019-09-17 11:54:53.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-10-06 18:26:37.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 537,
+    "name": "Let me down slowly",
+    "chordsList": ["Dm", "C", "Am", "Bb"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 537,
+            "label_id": 9
+        }
+    }, {
+        "name": "Indie",
+        "pivot": {
+            "song_id": 537,
+            "label_id": 10
+        }
+    }],
+    "labelList": [57, 9, 10, 66, 145, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/close-up-colors-couple-2838506.143921293.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 538,
+    "artist": "Theme Song",
+    "title": "The Addams Family",
+    "level": 0,
+    "created_at": {
+        "date": "2019-09-20 09:14:50.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-10-01 09:46:04.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 538,
+    "name": "The Addams Family",
+    "chordsList": ["D", "E", "Em", "A", "Dm"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 538,
+            "label_id": 9
+        }
+    }, {
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 538,
+            "label_id": 89
+        }
+    }],
+    "labelList": [52, 9, 144, 146, 89, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pelly-benassi-hz1wqbhcxag-unsplash.145053796.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 532,
+    "artist": "Raxtu Raxti",
+    "title": "Ik r\u012bti\u0146u saule l\u0113ca",
+    "level": 0,
+    "created_at": {
+        "date": "2019-09-10 07:38:05.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-29 14:22:48.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 532,
+    "name": "Ik r\u012bti\u0146u saule l\u0113ca",
+    "chordsList": ["F", "C", "G"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 532,
+            "label_id": 16
+        }
+    }],
+    "labelList": [16, 23, 133, 135],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/blur-boardwalk-close-up-205002.143301085.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 529,
+    "artist": "Raxtu Raxti",
+    "title": "P\u0113rkon\u012btis ducin\u0101ja",
+    "level": 0,
+    "created_at": {
+        "date": "2019-09-05 11:05:57.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-29 14:22:40.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 529,
+    "name": "P\u0113rkon\u012btis ducin\u0101ja",
+    "chordsList": ["F", "C", "G"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 529,
+            "label_id": 16
+        }
+    }],
+    "labelList": [137, 16],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/cloudiness-clouds-cloudscape-1074428.142881557.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 469,
+    "artist": "American Authors",
+    "title": "Best Day Of My Life",
+    "level": 0,
+    "created_at": {
+        "date": "2019-05-20 11:21:26.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-24 12:20:36.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 469,
+    "name": "Best Day Of My Life",
+    "chordsList": ["D", "G", "Bm"],
+    "genreList": [{
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 469,
+            "label_id": 11
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 469,
+            "label_id": 9
+        }
+    }, {
+        "name": "Indie",
+        "pivot": {
+            "song_id": 469,
+            "label_id": 10
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 469,
+            "label_id": 90
+        }
+    }],
+    "labelList": [11, 52, 64, 9, 10, 90, 27, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/adult-backlit-bottles-697244-1.133559631.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 428,
+    "artist": "Imagine Dragons",
+    "title": "Believer",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-21 13:53:25.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-24 11:58:03.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 428,
+    "name": "Believer",
+    "chordsList": ["Am", "F", "E", "G"],
+    "genreList": [{
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 428,
+            "label_id": 11
+        }
+    }, {
+        "name": "Indie",
+        "pivot": {
+            "song_id": 428,
+            "label_id": 10
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 428,
+            "label_id": 90
+        }
+    }, {
+        "name": "Rock",
+        "pivot": {
+            "song_id": 428,
+            "label_id": 187
+        }
+    }],
+    "labelList": [33, 37, 11, 10, 90, 120, 155, 187],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/believer.128105220.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 453,
+    "artist": "Pharrell Williams",
+    "title": "Happy",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-12 14:57:34.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-24 11:06:31.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 453,
+    "name": "Happy",
+    "chordsList": ["F", "Fm", "Bb", "C", "Db", "Cm"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 453,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 453,
+            "label_id": 90
+        }
+    }, {
+        "name": "Dance",
+        "pivot": {
+            "song_id": 453,
+            "label_id": 21
+        }
+    }, {
+        "name": "RnB",
+        "pivot": {
+            "song_id": 453,
+            "label_id": 15
+        }
+    }],
+    "labelList": [9, 62, 63, 90, 27, 21, 15, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-884977.116613744.129473774.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 535,
+    "artist": "The Lion King",
+    "title": "Can You Feel The Love Tonight",
+    "level": 0,
+    "created_at": {
+        "date": "2019-09-15 01:12:24.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-16 14:22:48.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 535,
+    "name": "Can You Feel The Love Tonight",
+    "chordsList": ["F", "C", "Bb", "G", "Dm", "Eb", "Gm", "D", "Em", "E", "Am"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 535,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 535,
+            "label_id": 90
+        }
+    }],
+    "labelList": [55, 9, 51, 138, 90, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/mike-holford-xhnb8ueznmg-unsplash.143843768.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 457,
+    "artist": "Queen",
+    "title": "We Will Rock You",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-26 17:07:52.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-16 09:23:10.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 457,
+    "name": "We Will Rock You",
+    "chordsList": ["Em", "C", "A"],
+    "genreList": [{
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 457,
+            "label_id": 89
+        }
+    }, {
+        "name": "Rock",
+        "pivot": {
+            "song_id": 457,
+            "label_id": 187
+        }
+    }],
+    "labelList": [35, 40, 27, 89, 164, 187],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/broken-drumstick-close-up-dark-241687.128819048.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 438,
+    "artist": "Shakira",
+    "title": "Try Everything",
+    "level": 0,
+    "created_at": {
+        "date": "2019-04-08 14:57:23.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-16 09:23:02.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 438,
+    "name": "Try Everything",
+    "chordsList": ["C", "F", "G", "Am"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 438,
+            "label_id": 9
+        }
+    }, {
+        "name": "Latin",
+        "pivot": {
+            "song_id": 438,
+            "label_id": 17
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 438,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 23, 66, 17, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/jed-villejo-647988-unsplash.129928959.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 436,
+    "artist": "Ed Sheeran",
+    "title": "Perfect",
+    "level": 0,
+    "created_at": {
+        "date": "2019-04-09 18:39:15.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-16 09:22:45.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 436,
+    "name": "Perfect",
+    "chordsList": ["G", "Em", "C", "D"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 436,
+            "label_id": 9
+        }
+    }, {
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 436,
+            "label_id": 11
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 436,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 29, 47, 11, 90, 27, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1378723.125087807.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 431,
+    "artist": "Passenger",
+    "title": "Let Her Go",
+    "level": 0,
+    "created_at": {
+        "date": "2019-04-15 07:29:20.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-16 09:22:31.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 431,
+    "name": "Let Her Go",
+    "chordsList": ["C", "D", "Em", "G", "Bm"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 431,
+            "label_id": 9
+        }
+    }, {
+        "name": "Indie",
+        "pivot": {
+            "song_id": 431,
+            "label_id": 10
+        }
+    }, {
+        "name": "Folk\/Country",
+        "pivot": {
+            "song_id": 431,
+            "label_id": 12
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 431,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 35, 69, 10, 12, 90, 27, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/backlit-dawn-light-562621.130531768.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 478,
+    "artist": "Lil Nas X feat. Billy Ray Cyrus",
+    "title": "Old Town Road",
+    "level": 0,
+    "created_at": {
+        "date": "2019-05-27 07:06:32.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-16 09:22:21.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 478,
+    "name": "Old Town Road",
+    "chordsList": ["A", "C", "G", "D"],
+    "genreList": [{
+        "name": "Rap",
+        "pivot": {
+            "song_id": 478,
+            "label_id": 20
+        }
+    }, {
+        "name": "Folk\/Country",
+        "pivot": {
+            "song_id": 478,
+            "label_id": 12
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 478,
+            "label_id": 90
+        }
+    }, {
+        "name": "RnB",
+        "pivot": {
+            "song_id": 478,
+            "label_id": 15
+        }
+    }],
+    "labelList": [20, 38, 24, 27, 122, 12, 90, 15, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/jakob-owens-422373-unsplash-1.134153763.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 434,
+    "artist": "James Bay",
+    "title": "Let It Go",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-21 13:46:04.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-16 09:22:09.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 434,
+    "name": "Let It Go",
+    "chordsList": ["C", "F", "Am", "G", "Dm"],
+    "genreList": [{
+        "name": "Indie",
+        "pivot": {
+            "song_id": 434,
+            "label_id": 10
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 434,
+            "label_id": 90
+        }
+    }, {
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 434,
+            "label_id": 11
+        }
+    }],
+    "labelList": [10, 23, 42, 90, 115, 11, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/animal-avian-bird-875858-4.128708524.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 509,
+    "artist": "Portugal. The Man",
+    "title": "Feel It Still",
+    "level": 0,
+    "created_at": {
+        "date": "2019-08-28 02:23:09.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-10 08:33:52.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 509,
+    "name": "Feel It Still",
+    "chordsList": ["Dm", "F", "Gm", "Bb"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 509,
+            "label_id": 9
+        }
+    }, {
+        "name": "Indie",
+        "pivot": {
+            "song_id": 509,
+            "label_id": 10
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 509,
+            "label_id": 90
+        }
+    }],
+    "labelList": [57, 129, 9, 10, 132, 27, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/photo-1533147670608-2a2f9775d3a4.143304432.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 530,
+    "artist": "Bebe Rexha & Florida Georgia Line",
+    "title": "Meant To Be",
+    "level": 0,
+    "created_at": {
+        "date": "2019-09-05 20:26:40.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-06 03:48:46.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 530,
+    "name": "Meant To Be",
+    "chordsList": ["Bb", "Cm", "Gm", "Eb", "F"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 530,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 530,
+            "label_id": 90
+        }
+    }, {
+        "name": "RnB",
+        "pivot": {
+            "song_id": 530,
+            "label_id": 15
+        }
+    }],
+    "labelList": [128, 111, 130, 27, 9, 90, 15, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1201673.142634393.142915200.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 523,
+    "artist": "Raxtu Raxti",
+    "title": "Tec, meiti\u0146a tu pa priek\u0161u",
+    "level": 0,
+    "created_at": {
+        "date": "2019-09-02 09:06:26.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-04 16:47:02.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 523,
+    "name": "Tec, meiti\u0146a tu pa priek\u0161u",
+    "chordsList": ["D", "A"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 523,
+            "label_id": 16
+        }
+    }],
+    "labelList": [16, 108, 52, 109],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/bright-child-color-2253896.142615186.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 524,
+    "artist": "Raxtu Raxti",
+    "title": "Es izj\u0101ju pr\u016b\u0161u zemi",
+    "level": 0,
+    "created_at": {
+        "date": "2019-09-02 12:07:04.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-04 16:46:51.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 524,
+    "name": "Es izj\u0101ju pr\u016b\u0161u zemi",
+    "chordsList": ["A", "D", "E", "F#m", "Bm"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 524,
+            "label_id": 16
+        }
+    }],
+    "labelList": [113, 24, 16],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/country-farm-farmland-518557.142626024.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 506,
+    "artist": "Raxtu Raxti",
+    "title": "P\u016bti, p\u016bti, ziemel\u012bti",
+    "level": 0,
+    "created_at": {
+        "date": "2019-08-20 19:03:16.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-09-02 05:19:07.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 506,
+    "name": "P\u016bti, p\u016bti, ziemel\u012bti",
+    "chordsList": ["Em", "C", "Bm"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 506,
+            "label_id": 16
+        }
+    }],
+    "labelList": [97, 16],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/ziema.141528694.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 464,
+    "artist": "Bruno Mars",
+    "title": "Just The Way You Are",
+    "level": 0,
+    "created_at": {
+        "date": "2019-04-15 09:00:35.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-08-29 12:56:29.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 464,
+    "name": "Just The Way You Are",
+    "chordsList": ["G", "Em", "C"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 464,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 464,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 29, 56, 90, 27, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1093946.115395323.130176978.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 461,
+    "artist": "Bob Marley",
+    "title": "Three Little Birds",
+    "level": 0,
+    "created_at": {
+        "date": "2019-04-03 07:10:34.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-08-29 12:56:17.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 461,
+    "name": "Three Little Birds",
+    "chordsList": ["A", "D", "E"],
+    "genreList": [{
+        "name": "Reggae",
+        "pivot": {
+            "song_id": 461,
+            "label_id": 13
+        }
+    }, {
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 461,
+            "label_id": 89
+        }
+    }],
+    "labelList": [13, 24, 43, 89, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1194419.113261121.129473946.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 411,
+    "artist": "Beyonce",
+    "title": "If I Were A Boy",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-25 09:54:31.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-08-29 12:55:45.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 411,
+    "name": "If I Were A Boy",
+    "chordsList": ["Dm", "Bb", "F", "C", "G"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 411,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 411,
+            "label_id": 90
+        }
+    }, {
+        "name": "RnB",
+        "pivot": {
+            "song_id": 411,
+            "label_id": 15
+        }
+    }],
+    "labelList": [9, 55, 58, 27, 90, 15, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1464230.133346552.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 458,
+    "artist": "Ben E. King",
+    "title": "Stand By Me",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-27 12:07:26.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-08-29 12:55:45.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 458,
+    "name": "Stand By Me",
+    "chordsList": ["A", "F#m", "D", "E"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 458,
+            "label_id": 9
+        }
+    }, {
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 458,
+            "label_id": 11
+        }
+    }, {
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 458,
+            "label_id": 89
+        }
+    }],
+    "labelList": [9, 24, 43, 11, 27, 89, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/couple-date-lens-flare-40525.128886225.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 470,
+    "artist": "Bruno Mars",
+    "title": "Count On Me",
+    "level": 0,
+    "created_at": {
+        "date": "2019-04-20 08:44:46.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-08-29 12:55:45.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 470,
+    "name": "Count On Me",
+    "chordsList": ["C", "Em", "Am", "G", "F", "Dm"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 470,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 470,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 37, 23, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo.78189507.130893345.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 403,
+    "artist": "Austra Pumpure",
+    "title": "\u0160\u016bpo mani m\u0101muli\u0146a",
+    "level": 0,
+    "created_at": {
+        "date": "2018-11-10 08:08:44.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-08-29 12:53:34.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 403,
+    "name": "\u0160\u016bpo mani m\u0101muli\u0146a",
+    "chordsList": ["G", "Am", "D"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 403,
+            "label_id": 16
+        }
+    }],
+    "labelList": [16, 29, 65, 106],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/nature-forest-trees-fog.116997969.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 449,
+    "artist": "Latvie\u0161u tautasdziesma",
+    "title": "Strauja, strauja upe tec\u0113j'",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-17 18:48:44.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-08-28 12:34:48.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 449,
+    "name": "Strauja, strauja upe tec\u0113j'",
+    "chordsList": ["D", "A", "G"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 449,
+            "label_id": 16
+        }
+    }],
+    "labelList": [16, 100],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-2162651.133345191.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 451,
+    "artist": "Latvie\u0161u tautasdziesma",
+    "title": "Sij\u0101 auzas, tautu meita",
+    "level": 0,
+    "created_at": {
+        "date": "2019-08-14 07:43:16.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-08-14 07:43:16.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 451,
+    "name": "Sij\u0101 auzas, tautu meita",
+    "chordsList": ["D", "G", "C"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 451,
+            "label_id": 16
+        }
+    }],
+    "labelList": [16, 29, 51, 99],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/oats-oat-field-arable-cereals-87824-1.127067623.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 322,
+    "artist": "Latvie\u0161u tautasdziesma",
+    "title": "S\u012bki, mazi \u017eagari\u0146i",
+    "level": 0,
+    "created_at": {
+        "date": "2019-08-14 07:22:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-08-14 07:22:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 322,
+    "name": "S\u012bki, mazi \u017eagari\u0146i",
+    "chordsList": ["C", "G"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 322,
+            "label_id": 16
+        }
+    }],
+    "labelList": [16, 23, 45, 98],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-68258.91028566.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 496,
+    "artist": "Deep Blue Something",
+    "title": "Breakfast At Tiffany's",
+    "level": 0,
+    "created_at": {
+        "date": "2019-08-01 10:50:42.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-08-01 10:50:42.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 496,
+    "name": "Breakfast At Tiffany's",
+    "chordsList": ["G", "C", "D"],
+    "genreList": [{
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 496,
+            "label_id": 11
+        }
+    }, {
+        "name": "Indie",
+        "pivot": {
+            "song_id": 496,
+            "label_id": 10
+        }
+    }, {
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 496,
+            "label_id": 89
+        }
+    }],
+    "labelList": [125, 11, 10, 89, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-374592.80242470.138650505.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 500,
+    "artist": "Guns 'n' Roses",
+    "title": "Sweet Child Of Mine",
+    "level": 0,
+    "created_at": {
+        "date": "2019-07-28 09:00:42.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-07-28 09:00:42.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 500,
+    "name": "Sweet Child Of Mine",
+    "chordsList": ["D", "Em", "G", "C", "A", "B", "Am", "Bb", "E"],
+    "genreList": [{
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 500,
+            "label_id": 89
+        }
+    }, {
+        "name": "Rock",
+        "pivot": {
+            "song_id": 500,
+            "label_id": 187
+        }
+    }],
+    "labelList": [89, 157, 187],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-573259.82065401.139498711.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 499,
+    "artist": "The Police",
+    "title": "Every Breath You Take",
+    "level": 0,
+    "created_at": {
+        "date": "2019-07-27 07:02:08.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-07-27 07:02:08.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 499,
+    "name": "Every Breath You Take",
+    "chordsList": ["G", "Em", "C", "D", "Bb", "A", "Eb", "F"],
+    "genreList": [{
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 499,
+            "label_id": 11
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 499,
+            "label_id": 9
+        }
+    }, {
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 499,
+            "label_id": 89
+        }
+    }],
+    "labelList": [27, 11, 9, 89, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/every-breath-you-take.83203757.139147482.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 498,
+    "artist": "R\u016bta Kanteruka",
+    "title": "Little Fishy",
+    "level": 0,
+    "created_at": {
+        "date": "2019-07-27 06:53:03.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-07-27 06:53:03.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 498,
+    "name": "Little Fishy",
+    "chordsList": ["G", "Em", "F#m", "B", "A", "D"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 498,
+            "label_id": 9
+        }
+    }, {
+        "name": "Children's",
+        "pivot": {
+            "song_id": 498,
+            "label_id": 14
+        }
+    }],
+    "labelList": [9, 14, 164],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/animal-clown-fish-fish-128756.139001230.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 497,
+    "artist": "Of Monsters And Men",
+    "title": "Mountain Sound",
+    "level": 0,
+    "created_at": {
+        "date": "2019-07-22 12:54:36.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-07-22 12:54:36.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 497,
+    "name": "Mountain Sound",
+    "chordsList": ["G", "Bm", "D", "Em", "A"],
+    "genreList": [{
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 497,
+            "label_id": 11
+        }
+    }, {
+        "name": "Indie",
+        "pivot": {
+            "song_id": 497,
+            "label_id": 10
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 497,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 497,
+            "label_id": 90
+        }
+    }],
+    "labelList": [114, 27, 11, 10, 9, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-417173.133345634.138998426.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 441,
+    "artist": "Taylor Swift",
+    "title": "Shake It Off",
+    "level": 0,
+    "created_at": {
+        "date": "2019-07-19 06:14:40.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-07-19 06:14:40.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 441,
+    "name": "Shake It Off",
+    "chordsList": ["Am", "C", "G", "Em"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 441,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 441,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 29, 39, 90, 27, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-592940.125254446.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 484,
+    "artist": "Ray Parker Jr.",
+    "title": "Ghostbusters",
+    "level": 0,
+    "created_at": {
+        "date": "2019-07-18 11:44:35.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-07-18 11:44:35.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 484,
+    "name": "Ghostbusters",
+    "chordsList": ["Cm", "Bb", "Am", "F", "C", "Gm"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 484,
+            "label_id": 9
+        }
+    }, {
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 484,
+            "label_id": 89
+        }
+    }],
+    "labelList": [9, 23, 38, 27, 89, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1374546.113605720.135099155.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 491,
+    "artist": "Oasis",
+    "title": "Wonderwall",
+    "level": 0,
+    "created_at": {
+        "date": "2019-07-13 16:22:43.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-07-13 16:22:43.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 491,
+    "name": "Wonderwall",
+    "chordsList": ["Em", "G", "D", "A", "C"],
+    "genreList": [{
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 491,
+            "label_id": 11
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 491,
+            "label_id": 90
+        }
+    }, {
+        "name": "Rock",
+        "pivot": {
+            "song_id": 491,
+            "label_id": 187
+        }
+    }],
+    "labelList": [27, 123, 11, 90, 157, 187],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/wonderwall.83204055.138233615.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 482,
+    "artist": "The White Stripes",
+    "title": "Seven Nation Army",
+    "level": 0,
+    "created_at": {
+        "date": "2019-07-05 11:09:23.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-07-05 11:09:23.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 482,
+    "name": "Seven Nation Army",
+    "chordsList": ["Em", "G", "D", "C", "B", "Am"],
+    "genreList": [{
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 482,
+            "label_id": 90
+        }
+    }, {
+        "name": "Rock",
+        "pivot": {
+            "song_id": 482,
+            "label_id": 187
+        }
+    }],
+    "labelList": [35, 96, 90, 187],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1329328.133350565.135055472.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 418,
+    "artist": "Camila Cabello feat. Young Thug",
+    "title": "Havana ",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-25 10:36:50.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-06-25 10:36:50.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 418,
+    "name": "Havana ",
+    "chordsList": ["Gm", "Eb", "D"],
+    "genreList": [{
+        "name": "Latin",
+        "pivot": {
+            "song_id": 418,
+            "label_id": 17
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 418,
+            "label_id": 9
+        }
+    }, {
+        "name": "Rap",
+        "pivot": {
+            "song_id": 418,
+            "label_id": 20
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 418,
+            "label_id": 90
+        }
+    }],
+    "labelList": [17, 59, 58, 9, 20, 90, 27, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1029919.126911915.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 417,
+    "artist": "Taylor Swift",
+    "title": "Blank Space",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-25 10:15:03.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-06-25 10:15:03.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 417,
+    "name": "Blank Space",
+    "chordsList": ["F", "Dm", "Bb", "C", "Gm"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 417,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 417,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 55, 66, 90, 27, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1824684.123955258.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 427,
+    "artist": "Queen",
+    "title": "Another One Bites The Dust",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-25 09:24:42.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-06-25 09:24:42.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 427,
+    "name": "Another One Bites The Dust",
+    "chordsList": ["Em", "Am", "C", "G", "B", "F#m", "A"],
+    "genreList": [{
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 427,
+            "label_id": 89
+        }
+    }, {
+        "name": "Rock",
+        "pivot": {
+            "song_id": 427,
+            "label_id": 187
+        }
+    }],
+    "labelList": [35, 68, 27, 89, 157, 187],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/kunj-parekh-392037-unsplash-1.131747742.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 480,
+    "artist": "Lady Gaga & Bradley Cooper",
+    "title": "Shallow",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-21 14:31:03.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-06-21 14:31:03.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 480,
+    "name": "Shallow",
+    "chordsList": ["Em", "D", "G", "C", "Am", "Bm", "A"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 480,
+            "label_id": 9
+        }
+    }, {
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 480,
+            "label_id": 11
+        }
+    }, {
+        "name": "Folk\/Country",
+        "pivot": {
+            "song_id": 480,
+            "label_id": 12
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 480,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 29, 76, 11, 27, 121, 12, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/vidar-nordli-mathisen-592846-unsplash.134771699.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 485,
+    "artist": "Joan Jett ",
+    "title": "I Love Rock'n'Roll",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-13 09:13:37.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-06-13 09:13:37.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 485,
+    "name": "I Love Rock'n'Roll",
+    "chordsList": ["Em", "Am", "B"],
+    "genreList": [{
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 485,
+            "label_id": 11
+        }
+    }, {
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 485,
+            "label_id": 89
+        }
+    }, {
+        "name": "Rock",
+        "pivot": {
+            "song_id": 485,
+            "label_id": 187
+        }
+    }],
+    "labelList": [33, 91, 11, 89, 164, 187],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/audio-cassette-cassette-tape-1626481.135104351.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 488,
+    "artist": "Twenty One Pilots",
+    "title": "Heathens",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-11 20:24:07.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-06-11 20:24:07.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 488,
+    "name": "Heathens",
+    "chordsList": ["C", "Am", "E", "Em", "B"],
+    "genreList": [{
+        "name": "Rap",
+        "pivot": {
+            "song_id": 488,
+            "label_id": 20
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 488,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 488,
+            "label_id": 90
+        }
+    }],
+    "labelList": [20, 35, 32, 116, 9, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/astronomy-dark-eclipse-580679.135457107.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 487,
+    "artist": "George Ezra",
+    "title": "Budapest",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-10 20:22:53.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-06-10 20:22:53.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 487,
+    "name": "Budapest",
+    "chordsList": ["A", "D", "E"],
+    "genreList": [{
+        "name": "Indie",
+        "pivot": {
+            "song_id": 487,
+            "label_id": 10
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 487,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 487,
+            "label_id": 90
+        }
+    }],
+    "labelList": [10, 9, 24, 43, 90, 27, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/budapest.83206013.135396468.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 479,
+    "artist": "John Lennon",
+    "title": "Imagine",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-10 19:26:08.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-06-10 19:26:08.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 479,
+    "name": "Imagine",
+    "chordsList": ["C", "F", "Am", "Dm", "G", "E"],
+    "genreList": [{
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 479,
+            "label_id": 11
+        }
+    }, {
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 479,
+            "label_id": 89
+        }
+    }],
+    "labelList": [11, 23, 48, 89, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/john-lennon-imagine.80323676.134528724.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 486,
+    "artist": "Elton John",
+    "title": "Your Song",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-10 09:44:32.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-06-10 09:44:32.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 1,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 486,
+    "name": "Your Song",
+    "chordsList": ["D", "G", "A", "F#m", "Bm", "F#", "Em"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 486,
+            "label_id": 9
+        }
+    }, {
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 486,
+            "label_id": 89
+        }
+    }],
+    "labelList": [52, 78, 9, 117, 89, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/james-zwadlo-637487-unsplash.135372897.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 483,
+    "artist": "Jason Mraz",
+    "title": "I'm Yours",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-06 22:21:44.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-06-06 22:21:44.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 483,
+    "name": "I'm Yours",
+    "chordsList": ["C", "G", "Am", "F", "D"],
+    "genreList": [{
+        "name": "Indie",
+        "pivot": {
+            "song_id": 483,
+            "label_id": 10
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 483,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 483,
+            "label_id": 90
+        }
+    }],
+    "labelList": [10, 23, 49, 9, 90, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-541518.76621102.135057650.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 465,
+    "artist": "Coldplay",
+    "title": "Viva La Vida",
+    "level": 0,
+    "created_at": {
+        "date": "2019-06-06 12:31:35.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-06-06 12:31:35.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 465,
+    "name": "Viva La Vida",
+    "chordsList": ["C", "D", "G", "Em"],
+    "genreList": [{
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 465,
+            "label_id": 11
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 465,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 465,
+            "label_id": 90
+        }
+    }],
+    "labelList": [11, 29, 47, 9, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/abstract-abstract-expressionism-abstract-painting-1509534.130523196.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 471,
+    "artist": "Wiz Khalifa feat. Charlie Puth",
+    "title": "See You Again ",
+    "level": 0,
+    "created_at": {
+        "date": "2019-05-27 12:39:33.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-05-27 12:39:33.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 471,
+    "name": "See You Again ",
+    "chordsList": ["Am", "C", "F", "G", "Dm"],
+    "genreList": [{
+        "name": "Rap",
+        "pivot": {
+            "song_id": 471,
+            "label_id": 20
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 471,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 471,
+            "label_id": 90
+        }
+    }],
+    "labelList": [20, 9, 90, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo.79717400.131246291.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 472,
+    "artist": "The Lumineers",
+    "title": "Ho Hey",
+    "level": 0,
+    "created_at": {
+        "date": "2019-05-13 08:31:30.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-05-13 08:31:30.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 472,
+    "name": "Ho Hey",
+    "chordsList": ["C", "F", "Am", "G"],
+    "genreList": [{
+        "name": "Indie",
+        "pivot": {
+            "song_id": 472,
+            "label_id": 10
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 472,
+            "label_id": 90
+        }
+    }, {
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 472,
+            "label_id": 11
+        }
+    }],
+    "labelList": [10, 23, 42, 90, 11, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/country-field-flora-1545.131377216.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 432,
+    "artist": "The Beatles",
+    "title": "Let It Be",
+    "level": 0,
+    "created_at": {
+        "date": "2019-05-13 08:06:07.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-05-13 08:06:07.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 432,
+    "name": "Let It Be",
+    "chordsList": ["C", "G", "A", "F", "Am", "Bb"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 432,
+            "label_id": 9
+        }
+    }, {
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 432,
+            "label_id": 11
+        }
+    }, {
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 432,
+            "label_id": 89
+        }
+    }],
+    "labelList": [9, 23, 67, 27, 11, 89, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/download-3.132955613.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 425,
+    "artist": "Of Monsters And Men",
+    "title": "Little Talks",
+    "level": 0,
+    "created_at": {
+        "date": "2019-05-05 20:50:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-05-05 20:50:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 425,
+    "name": "Little Talks",
+    "chordsList": ["Am", "F", "C", "G"],
+    "genreList": [{
+        "name": "Indie",
+        "pivot": {
+            "song_id": 425,
+            "label_id": 10
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 425,
+            "label_id": 90
+        }
+    }],
+    "labelList": [10, 23, 43, 90, 27, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/architecture-dark-daylight-448752.132331100.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 435,
+    "artist": "Lukas Graham",
+    "title": "Mama Said",
+    "level": 0,
+    "created_at": {
+        "date": "2019-04-22 08:49:44.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-04-22 08:49:44.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 435,
+    "name": "Mama Said",
+    "chordsList": ["F", "Bb", "Am", "Dm", "C", "G", "A"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 435,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 435,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 55, 70, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/action-art-fun-822509.131229174.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 466,
+    "artist": "Shawn Mendes",
+    "title": "Treat You Better",
+    "level": 0,
+    "created_at": {
+        "date": "2019-04-16 10:29:40.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-04-16 10:29:40.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 466,
+    "name": "Treat You Better",
+    "chordsList": ["Am", "G", "F", "C"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 466,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 466,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 33, 42, 90, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/4k-wallpaper-adventure-beach-165505.130608661.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 462,
+    "artist": "George Ezra",
+    "title": "Blame It On Me",
+    "level": 0,
+    "created_at": {
+        "date": "2019-04-10 06:18:21.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-04-10 06:18:21.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 462,
+    "name": "Blame It On Me",
+    "chordsList": ["Eb", "Bb", "Cm", "Ab"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 462,
+            "label_id": 9
+        }
+    }, {
+        "name": "Indie",
+        "pivot": {
+            "song_id": 462,
+            "label_id": 10
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 462,
+            "label_id": 90
+        }
+    }],
+    "labelList": [9, 60, 61, 10, 90, 27, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-442559.117834044.130075891.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 416,
+    "artist": "U2",
+    "title": "With Or Without You",
+    "level": 0,
+    "created_at": {
+        "date": "2019-04-01 09:27:51.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-04-01 09:27:51.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 416,
+    "name": "With Or Without You",
+    "chordsList": ["D", "A", "Bm", "G"],
+    "genreList": [{
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 416,
+            "label_id": 11
+        }
+    }, {
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 416,
+            "label_id": 89
+        }
+    }],
+    "labelList": [52, 74, 11, 89, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/andrew-neel-137513-unsplash.129326881.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 460,
+    "artist": "Leonard Cohen",
+    "title": "Hallelujah",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-29 21:38:48.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-03-29 21:38:48.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 460,
+    "name": "Hallelujah",
+    "chordsList": ["G", "Em", "C", "D", "B"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 460,
+            "label_id": 9
+        }
+    }, {
+        "name": "Folk\/Country",
+        "pivot": {
+            "song_id": 460,
+            "label_id": 12
+        }
+    }, {
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 460,
+            "label_id": 89
+        }
+    }],
+    "labelList": [9, 29, 37, 12, 27, 89, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/afterglow-avian-backlit-556663.129077480.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 456,
+    "artist": "Imagine Dragons",
+    "title": "Thunder",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-27 11:52:29.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-03-27 11:52:29.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 456,
+    "name": "Thunder",
+    "chordsList": ["C", "F", "Am", "Em", "G", "Dm"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 456,
+            "label_id": 9
+        }
+    }, {
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 456,
+            "label_id": 11
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 456,
+            "label_id": 90
+        }
+    }, {
+        "name": "Rock",
+        "pivot": {
+            "song_id": 456,
+            "label_id": 187
+        }
+    }],
+    "labelList": [9, 23, 44, 11, 90, 157, 187],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/calamity-city-clouds-1162251.128814478.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 454,
+    "artist": "Kings Of Leon",
+    "title": "Use Somebody",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-25 21:32:45.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-03-25 21:32:45.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 454,
+    "name": "Use Somebody",
+    "chordsList": ["C", "F", "Am", "D", "F#m"],
+    "genreList": [{
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 454,
+            "label_id": 90
+        }
+    }, {
+        "name": "Rock",
+        "pivot": {
+            "song_id": 454,
+            "label_id": 187
+        }
+    }],
+    "labelList": [23, 45, 27, 90, 155, 187],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/artist-band-bass-92080.128734883.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 444,
+    "artist": "Latvie\u0161u tautasdziesma",
+    "title": "B\u0113du manu, lielu b\u0113du",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-11 13:34:12.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-03-11 13:34:12.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 444,
+    "name": "B\u0113du manu, lielu b\u0113du",
+    "chordsList": ["F", "Bb", "C", "G"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 444,
+            "label_id": 16
+        }
+    }],
+    "labelList": [16, 55, 51, 101],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-261123.133345302.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 420,
+    "artist": "John Legend",
+    "title": "Love Me Now",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-11 10:41:51.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-03-11 10:41:51.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 420,
+    "name": "Love Me Now",
+    "chordsList": ["Em", "C", "D", "Bm", "G", "A", "E"],
+    "genreList": [{
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 420,
+            "label_id": 90
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 420,
+            "label_id": 9
+        }
+    }, {
+        "name": "RnB",
+        "pivot": {
+            "song_id": 420,
+            "label_id": 15
+        }
+    }],
+    "labelList": [35, 47, 90, 27, 9, 15, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-773124.127510727.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 404,
+    "artist": "Jonas Blue feat. Jack & Jack",
+    "title": "Rise",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-06 11:33:30.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-03-06 11:33:30.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 404,
+    "name": "Rise",
+    "chordsList": ["Am", "G", "C", "F"],
+    "genreList": [{
+        "name": "Pop",
+        "pivot": {
+            "song_id": 404,
+            "label_id": 9
+        }
+    }, {
+        "name": "Rap",
+        "pivot": {
+            "song_id": 404,
+            "label_id": 20
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 404,
+            "label_id": 90
+        }
+    }, {
+        "name": "Dance",
+        "pivot": {
+            "song_id": 404,
+            "label_id": 21
+        }
+    }],
+    "labelList": [9, 33, 37, 20, 90, 21, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-697243.133345433.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 450,
+    "artist": "Latvie\u0161u tautasdziesma",
+    "title": "Upe nesa ozoli\u0146u",
+    "level": 0,
+    "created_at": {
+        "date": "2019-03-03 17:46:14.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-03-03 17:46:14.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 450,
+    "name": "Upe nesa ozoli\u0146u",
+    "chordsList": ["G", "A", "D"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 450,
+            "label_id": 16
+        }
+    }],
+    "labelList": [16, 102],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/yellow-leaf-leaves-autumn.126311689.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 423,
+    "artist": "Queen",
+    "title": "I Want To Break Free",
+    "level": 0,
+    "created_at": {
+        "date": "2019-02-26 12:05:13.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-02-26 12:05:13.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 423,
+    "name": "I Want To Break Free",
+    "chordsList": ["F", "Bb", "C", "Dm", "G"],
+    "genreList": [{
+        "name": "Before 2000s",
+        "pivot": {
+            "song_id": 423,
+            "label_id": 89
+        }
+    }, {
+        "name": "Rock",
+        "pivot": {
+            "song_id": 423,
+            "label_id": 187
+        }
+    }, {
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 423,
+            "label_id": 11
+        }
+    }],
+    "labelList": [55, 41, 27, 89, 155, 187, 11],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1030794.124051396.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 430,
+    "artist": "Panic! At The Disco",
+    "title": "High Hopes",
+    "level": 0,
+    "created_at": {
+        "date": "2019-02-25 09:39:29.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-02-25 09:39:29.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 430,
+    "name": "High Hopes",
+    "chordsList": ["Bb", "F", "Dm", "C", "Am", "A", "Bbm"],
+    "genreList": [{
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 430,
+            "label_id": 11
+        }
+    }, {
+        "name": "Indie",
+        "pivot": {
+            "song_id": 430,
+            "label_id": 10
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 430,
+            "label_id": 90
+        }
+    }],
+    "labelList": [11, 57, 58, 10, 90, 27, 124, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1777792.124224955.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 422,
+    "artist": "Luis Fonsi, Demi Lovato ",
+    "title": "Echame La Culpa",
+    "level": 0,
+    "created_at": {
+        "date": "2019-02-21 06:45:30.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-02-21 06:45:30.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 422,
+    "name": "Echame La Culpa",
+    "chordsList": ["F", "C", "G", "Am"],
+    "genreList": [{
+        "name": "Latin",
+        "pivot": {
+            "song_id": 422,
+            "label_id": 17
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 422,
+            "label_id": 9
+        }
+    }, {
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 422,
+            "label_id": 90
+        }
+    }],
+    "labelList": [17, 33, 73, 9, 90, 27, 157],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1024992.124047471.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 443,
+    "artist": "Latvie\u0161u tautasdziesma",
+    "title": "Pie Dievi\u0146a gari galdi",
+    "level": 0,
+    "created_at": {
+        "date": "2019-02-18 10:29:14.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-02-18 10:29:14.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 443,
+    "name": "Pie Dievi\u0146a gari galdi",
+    "chordsList": ["Em", "Am", "D", "G", "C"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 443,
+            "label_id": 16
+        }
+    }],
+    "labelList": [16, 29, 54, 103],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-1423600.125442297.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 321,
+    "artist": "Latvie\u0161u tautasdziesma",
+    "title": "Pieci vilki vilku vilka",
+    "level": 0,
+    "created_at": {
+        "date": "2019-02-18 10:20:05.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-02-18 10:20:05.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 321,
+    "name": "Pieci vilki vilku vilka",
+    "chordsList": ["D", "G", "A"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 321,
+            "label_id": 16
+        }
+    }],
+    "labelList": [16, 52, 53, 104],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/wolf-predator-hunter-canis-lupus-39310.133345525.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 442,
+    "artist": "Latvie\u0161u tautasdziesma",
+    "title": "J\u016bri\u0146' prasa smalku t\u012bklu",
+    "level": 0,
+    "created_at": {
+        "date": "2019-02-15 10:48:30.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-02-15 10:48:30.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 442,
+    "name": "J\u016bri\u0146' prasa smalku t\u012bklu",
+    "chordsList": ["A", "D", "E"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 442,
+            "label_id": 16
+        }
+    }],
+    "labelList": [16, 105],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-247487.125425741.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 424,
+    "artist": "X Ambassadors",
+    "title": "Unsteady",
+    "level": 0,
+    "created_at": {
+        "date": "2019-02-05 15:37:20.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-02-05 15:37:20.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 424,
+    "name": "Unsteady",
+    "chordsList": ["Bm", "G", "D", "A"],
+    "genreList": [{
+        "name": "After 2000s",
+        "pivot": {
+            "song_id": 424,
+            "label_id": 90
+        }
+    }, {
+        "name": "Poprock",
+        "pivot": {
+            "song_id": 424,
+            "label_id": 11
+        }
+    }, {
+        "name": "Pop",
+        "pivot": {
+            "song_id": 424,
+            "label_id": 9
+        }
+    }],
+    "labelList": [75, 36, 90, 11, 9, 155],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-556666.124474743.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 111,
+    "artist": "Ruta Kanteruka",
+    "title": "A Good Friend Song",
+    "level": 0,
+    "created_at": {
+        "date": "2019-02-05 11:24:14.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2019-02-05 11:24:14.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 111,
+    "name": "A Good Friend Song",
+    "chordsList": ["F", "C", "Am", "Dm", "G"],
+    "genreList": [{
+        "name": "Children's",
+        "pivot": {
+            "song_id": 111,
+            "label_id": 14
+        }
+    }],
+    "labelList": [14, 164],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/childrens_upload.67866642.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 117,
+    "artist": "Ruta Kanteruka",
+    "title": "Read Me A Book",
+    "level": 0,
+    "created_at": {
+        "date": "2018-10-03 08:47:09.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2018-10-03 08:47:09.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 117,
+    "name": "Read Me A Book",
+    "chordsList": ["C", "F", "E", "Am", "G", "Dm"],
+    "genreList": [{
+        "name": "Children's",
+        "pivot": {
+            "song_id": 117,
+            "label_id": 14
+        }
+    }],
+    "labelList": [14, 164],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/book.70195504.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 113,
+    "artist": "Ruta Kanteruka",
+    "title": "Centipede's Song",
+    "level": 0,
+    "created_at": {
+        "date": "2018-07-30 12:18:32.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2018-07-30 12:18:32.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 113,
+    "name": "Centipede's Song",
+    "chordsList": ["D", "G", "A", "Bm", "Em"],
+    "genreList": [{
+        "name": "Children's",
+        "pivot": {
+            "song_id": 113,
+            "label_id": 14
+        }
+    }],
+    "labelList": [14, 164],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/caterpillar.70195090.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 115,
+    "artist": "Ruta Kanteruka",
+    "title": "Goldilocks And Three Bears",
+    "level": 0,
+    "created_at": {
+        "date": "2018-07-30 12:00:05.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2018-07-30 12:00:05.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 115,
+    "name": "Goldilocks And Three Bears",
+    "chordsList": ["C", "F", "G", "Am", "Dm"],
+    "genreList": [{
+        "name": "Children's",
+        "pivot": {
+            "song_id": 115,
+            "label_id": 14
+        }
+    }],
+    "labelList": [14, 164],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/bears.70195341.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 119,
+    "artist": "Ruta Kanteruka",
+    "title": "The Snail Song",
+    "level": 0,
+    "created_at": {
+        "date": "2018-07-30 11:05:34.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2018-07-30 11:05:34.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 119,
+    "name": "The Snail Song",
+    "chordsList": ["Em", "B", "Am"],
+    "genreList": [{
+        "name": "Children's",
+        "pivot": {
+            "song_id": 119,
+            "label_id": 14
+        }
+    }],
+    "labelList": [14, 164],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/snail.70195642.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 120,
+    "artist": "Ruta Kanteruka",
+    "title": "Winter Walk",
+    "level": 0,
+    "created_at": {
+        "date": "2018-07-30 11:00:19.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2018-07-30 11:00:19.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 120,
+    "name": "Winter Walk",
+    "chordsList": ["Dm", "G", "C"],
+    "genreList": [{
+        "name": "Children's",
+        "pivot": {
+            "song_id": 120,
+            "label_id": 14
+        }
+    }],
+    "labelList": [14, 164],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/winter.70195761.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 326,
+    "artist": "Latviesu tautas dziesma",
+    "title": "Kur, pel\u012bte, tu tec\u0113si",
+    "level": 0,
+    "created_at": {
+        "date": "2018-01-14 11:55:31.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2018-01-14 11:55:31.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 326,
+    "name": "Kur, pel\u012bte, tu tec\u0113si",
+    "chordsList": ["C", "G"],
+    "genreList": [{
+        "name": "Latvian",
+        "pivot": {
+            "song_id": 326,
+            "label_id": 16
+        }
+    }],
+    "labelList": [16, 154],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/pexels-photo-206790.91029470.jpeg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}, {
+    "id": 121,
+    "artist": "Ruta Kanteruka",
+    "title": "Witch, Witch",
+    "level": 0,
+    "created_at": {
+        "date": "2017-05-05 20:56:06.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "updated_at": {
+        "date": "2017-05-05 20:56:06.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "paid": 1,
+    "featured": 0,
+    "is_published": true,
+    "is_public": true,
+    "is_pro_song": false,
+    "value": 121,
+    "name": "Witch, Witch",
+    "chordsList": ["B", "Em", "Am"],
+    "genreList": [{
+        "name": "Children's",
+        "pivot": {
+            "song_id": 121,
+            "label_id": 14
+        }
+    }],
+    "labelList": [14, 164],
+    "artwork": "https:\/\/web.solfeg.io\/contents\/artworks\/witch.70195888.jpg",
+    "link": "https:\/\/next.web.solfeg.io\/offers",
+    "show": true,
+    "is_new": false,
+    "hasVariations": false,
+    "variation_title": null
+}]
